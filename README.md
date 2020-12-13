@@ -1,4 +1,4 @@
-# [🌍 🕒 World Clock 🕘 🌎](https://t.me/ClockBot)
+# [🌍 🕒 World Clock for PFZ 🕘 🌎](https://t.me/ClockBot) #In Progress
 
 This repository contains the source code of [@ClockBot](https://t.me/ClockBot),
 a telegram bot that allows to get the current time of any place in the world.
